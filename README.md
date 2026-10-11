@@ -18,6 +18,13 @@ npm run build
 npm run preview
 ```
 
+## GitHub Pages
+
+The app is deployed automatically to
+[https://askkarim626.github.io/GeoVec/](https://askkarim626.github.io/GeoVec/)
+when changes are pushed to the `main` branch. You can also start a deployment
+manually from the repository's Actions tab.
+
 ## Features
 
 - First-use terms of use and privacy notice. Acceptance is stored in the browser's
